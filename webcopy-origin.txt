@@ -1,0 +1,552 @@
+Uri: https://white-glad-hare-157.mypinata.cloud/ipfs/QmNxm2GBqL21CS5fPLCxEZWVXmtM12YuakBdJ7Zva4GxE4
+File Name: C:\Downloaded Web Sites\whoisebert.space\ipfs\QmNxm2GBqL21CS5fPLCxEZWVXmtM12YuakBdJ7Zva4GxE4
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/
+File Name: C:\Downloaded Web Sites\whoisebert.space\index.htm
+Content Type: text/html
+
+Uri: https://whoisebert.space/css/style.min.css?_v=20241008181347
+File Name: C:\Downloaded Web Sites\whoisebert.space\css\style.min.css
+Content Type: text/css
+
+Uri: https://whoisebert.space/favicon.ico
+File Name: C:\Downloaded Web Sites\whoisebert.space\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://whoisebert.space/fonts/HKGroteskWide-Black.woff2
+File Name: C:\Downloaded Web Sites\whoisebert.space\fonts\HKGroteskWide-Black.woff2
+Content Type: font/woff2
+
+Uri: https://whoisebert.space/fonts/HKGroteskWide-Bold.woff2
+File Name: C:\Downloaded Web Sites\whoisebert.space\fonts\HKGroteskWide-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://whoisebert.space/fonts/HKGroteskWide-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\whoisebert.space\fonts\HKGroteskWide-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://whoisebert.space/fonts/HKGroteskWide-Medium.woff2
+File Name: C:\Downloaded Web Sites\whoisebert.space\fonts\HKGroteskWide-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://whoisebert.space/fonts/HKGroteskWide-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\whoisebert.space\fonts\HKGroteskWide-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://whoisebert.space/img/01.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\01.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/02.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\02.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/03.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\03.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/about/arrow.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\about\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/about/span1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\about\span1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/about/span2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\about\span2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/about/span3.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\about\span3.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/book/bg.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\bg.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/book/new/01.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\01.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/02.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\02.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/03.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\03.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/04.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\04.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/05.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\05.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/06.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\06.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/07.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\07.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/08.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\08.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/09.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\09.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/10.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\10.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/11.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\11.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/12.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\12.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/13.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\13.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/book/new/14.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\book\new\14.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/footer/insta.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\footer\insta.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/footer/tel.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\footer\tel.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/footer/w.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\footer\w.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/footer/x.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\footer\x.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/hero/decor/d1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\hero\decor\d1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/hero/decor/d2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\hero\decor\d2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/hero/decor/d3.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\hero\decor\d3.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/hero/decor/dl2.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\hero\decor\dl2.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/hero/Logo.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\hero\Logo.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/01.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\01.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/02.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\02.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/03.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\03.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/11.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\11.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/22.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\22.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/33.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\33.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/dec.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/join/dec2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/dec3.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec3.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/dec4.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec4.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/dec5.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec5.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/dec6.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec6.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/dec7.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\dec7.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/span1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\span1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/span4.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\span4.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/span5.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\span5.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/join/span6.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\join\span6.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/Logo.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/osnovo.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\osnovo.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/package/arrow.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/package/bg.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\bg.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_AS ABOVE SO BELOW.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_AS ABOVE SO BELOW.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_BASED BLUE.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_BASED BLUE.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_BLANK BERT.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_BLANK BERT.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_BUSY BERTS.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_BUSY BERTS.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_CHAOTIC BEAUTY.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_CHAOTIC BEAUTY.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_FROM THE DEEP.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_FROM THE DEEP.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_HOME.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_HOME.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_SNIFF.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_SNIFF.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/DESKTOP BG/DBG_TELOS.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\DESKTOP BG\DBG_TELOS.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_01.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_01.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_02 .jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_02 .jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_02.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_02.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_03.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_03.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_04.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_04.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_05.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_05.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_06.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_06.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_07.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_07.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/cards/X BANNERS/XB_08.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\cards\X BANNERS\XB_08.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/dec1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\dec1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/package/dec2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\dec2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/package/decor1.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\decor1.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/package/decor2.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\decor2.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/package/decor3.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\decor3.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_AS ABOVE SO BELOW.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_AS ABOVE SO BELOW.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_BASED BLUE.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_BASED BLUE.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_BLANK BERT.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_BLANK BERT.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_BUSY BERTS.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_BUSY BERTS.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_CHAOTIC BEAUTY.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_CHAOTIC BEAUTY.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_FROM THE DEEP.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_FROM THE DEEP.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_HOME.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_HOME.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/DESKTOP BG/DBG_TELOS.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\DESKTOP BG\DBG_TELOS.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_01.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_01.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_02 .jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_02 .jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_02.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_02.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_03.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_03.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_04.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_04.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_05.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_05.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_06.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_06.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_07.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_07.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/download/X BANNERS/XB_08.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\download\X BANNERS\XB_08.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/package/titleDecor.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\package\titleDecor.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/portraits/arrow.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/portraits/bg.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/portraits/items/01.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\01.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/portraits/items/01.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\01.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/portraits/items/02.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\02.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/portraits/items/03.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\03.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/portraits/items/04.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\04.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/portraits/items/05.jpg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\items\05.jpg
+Content Type: image/jpeg
+
+Uri: https://whoisebert.space/img/portraits/play.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\play.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/portraits/span1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\span1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/portraits/span2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\portraits\span2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/roadmap/arrow.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\roadmap\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/roadmap/bg.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\roadmap\bg.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/roadmap/d1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\roadmap\d1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/roadmap/d2.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\roadmap\d2.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/slash.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\slash.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tel.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tel.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/active.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\active.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/arrow.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/contract.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\contract.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/copy.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/dec1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\dec1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/tokenomics/decor.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\decor.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/LightText.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\LightText.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/tokenomics/lock.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/tokenomics/main.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\main.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/tokenomics/span1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\span1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/tokenomics/span2.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\tokenomics\span2.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/video/01.mp4
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\video\01.mp4
+Content Type: video/mp4
+
+Uri: https://whoisebert.space/img/video/bg.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\video\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/video/bottom.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\video\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/video/span1.png
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\video\span1.png
+Content Type: image/png
+
+Uri: https://whoisebert.space/img/video/top.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\video\top.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/w.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\w.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/img/x.svg
+File Name: C:\Downloaded Web Sites\whoisebert.space\img\x.svg
+Content Type: image/svg+xml
+
+Uri: https://whoisebert.space/js/app.min.js?_v=20241008181347
+File Name: C:\Downloaded Web Sites\whoisebert.space\js\app.min.js
+Content Type: application/javascript
+
